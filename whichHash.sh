@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script para identificar y tratar de descodificar un hash
+# Script to identify and try to decode a hash
 
 function identify_and_crack_hash() {
     local hash="$1"
